@@ -29,6 +29,9 @@
     <None Include=".gitignore">
       <Filter>Исходные файлы</Filter>
     </None>
+    <None Include="ggne.md">
+      <Filter>Исходные файлы</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="logs\log.txt" />

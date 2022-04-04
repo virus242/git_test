@@ -145,6 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
+    <None Include="ggne.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="logs\log.txt" />
